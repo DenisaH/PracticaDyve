@@ -3,8 +3,8 @@ int main()
 
 {
 	OpenCVHelloWorld obj;
-	obj.ReadImage("C:\\Users\\denisa\\Pictures\\Camera Roll\\1.jpg");
-
+	obj.ReadImage("C:\\Users\\denisa\\Pictures\\Camera Roll\\1.jpg");	
+		//comment
 
 
 }
